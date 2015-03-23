@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmmuller/mmProps/issues"
   },
-  "homepage": "https://github.com/mmmuller/mmProps"
+  "homepage": "https://github.com/mmmuller/mmProps",
+  "dependencies": {
+    "q": "^1.2.0"
+  }
 }
