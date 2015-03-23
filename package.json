@@ -1,0 +1,19 @@
+{
+  "name": "mmProps",
+  "version": "1.0.0",
+  "description": "Sample module to generate props config to project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmuller/mmProps.git"
+  },
+  "author": "mmuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmuller/mmProps/issues"
+  },
+  "homepage": "https://github.com/mmmuller/mmProps"
+}
