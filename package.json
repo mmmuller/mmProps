@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/mmmuller/mmProps",
   "dependencies": {
-    "q": "^1.2.0"
+    "nconf": "^0.7.1",
+    "q": "^1.2.0",
+    "readline-sync": "^0.8.0"
   }
 }
